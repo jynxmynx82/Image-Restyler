@@ -1,0 +1,5 @@
+{
+  "name": "Image Restyler AI",
+  "description": "Upload an image and use AI to re-imagine it with a variety of creative filters and custom text prompts.",
+  "requestFramePermissions": []
+}
